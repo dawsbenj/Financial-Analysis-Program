@@ -1,0 +1,5 @@
+edgartools
+pandas
+matplotlib
+beautifulsoup4
+openpyxl
